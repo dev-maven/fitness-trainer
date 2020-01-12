@@ -1,4 +1,4 @@
-import { Subject} from 'rxjs';
+import { Subject} from 'rxjs/Subject';
 import { MatSnackBar } from '@angular/material';
 import { Injectable } from '@angular/core';
 
